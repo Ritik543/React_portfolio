@@ -25,6 +25,8 @@ export default function Home() {
               <div className="title-item">Web Developer</div>
               <div className="title-item">Frontend Designer</div>
               <div className="title-item">Tech Enthusiast</div>
+                <div className="title-item">Full Stack Developer </div>
+    
               <div className="title-item">Problem Solver</div>
             </div>
           </div>
